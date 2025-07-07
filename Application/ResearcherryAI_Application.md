@@ -3,10 +3,10 @@
 ## Founders
 
 ### **How long have the founders known one another and how did you meet? Have any of the founders not met in person?**
-The founders have known each other for almost one year and have met in person.
+Single founder company.
 
 ### **Who writes code, or does other technical work on your product? Was any of it done by a non-founder? Please explain.**
-Kirill developed the core `ProductResearcherAI` agent using the Cursor IDE and advanced prompt engineering. The Cursor IDE with the set of ProductResearcherAI rules is the MVP for the future ResearcherryAI platform. Kirill handles all technical work, including rule creation, integration logic, workflow automation and code writing for it.
+Kirill (founder) developed the core `ProductResearcherAI` agent using the Cursor IDE and advanced prompt engineering. The Cursor IDE with the set of ProductResearcherAI rules is the MVP for the future ResearcherryAI platform. Kirill handles all technical work, including rule creation, integration logic, workflow automation and code writing for it.
 
 ### Founder Video
 [Video placeholder]
@@ -17,7 +17,7 @@ Kirill developed the core `ProductResearcherAI` agent using the Cursor IDE and a
 Researcherry AI
 
 ### **Describe what your company does in 50 characters or less.**
-Platform for AI agents for scaling product research
+No-code AI agent platform for customer research
 
 ### **Company URL, if any**
 (will be provided upon platform launch)
@@ -39,7 +39,7 @@ The ability for personal contacts with YC company founders who create leading pr
 ### **How far along are you?**
 We started by developing Jneuro - an algorithm that analyzes user interviews and generates structured maps of unmet needs with importance, frequency, consequences, and satisfaction. This technology was tested across 20+ projects in crypto, real estate, and nutrition sectors. 
 
-Building on it, we created the `ProductResearcherAI` agent deployed in Cursor IDE (our current MVP for the ResearcherryAI platform), currently used by 10+ freelancers managing 5+ research contracts for product companies. The agent's effectiveness is proven across $15,100 in research contracts:
+Building on it, we created the `ProductResearcherAI` agent deployed in Cursor IDE (our current MVP for the ResearcherryAI platform), currently used by 10+ freelancers managing 5+ research contracts for product companies. The agent's effectiveness is proven across $12,100 in pilot research contracts:
 - **3 minutes**: analyze interviews, fill guides, formulate and verify customer needs
 - **20 minutes**: synthesize user patterns and generate feature hypotheses 
 - **1 hour**: process focus group results into comprehensive reports
@@ -48,7 +48,7 @@ Building on it, we created the `ProductResearcherAI` agent deployed in Cursor ID
 However, onboarding researchers to Cursor reveals critical friction: Git complexity, programming knowledge requirements, and lack of messaging platform integrations decrease productivity per researcher. To solve this, we're building ResearcherryAI - a no-code web platform that enables researchers without coding skills to create, customize, and monetize AI agents with built-in verification algorithms, messaging integrations (WhatsApp/Telegram APIs), and website embedding capabilities for real-time user feedback analysis.
 
 ### **How long have each of you been working on this? How much of that has been full-time? Please explain.**
-Kirill has over 5 years of experience conducting customer surveys to uncover hidden and unmet needs, having completed more than 2,000 interviews across various sectors.
+Kirill (founder) has been working on this idea for 18 months full-time. Started with Jneuro algorithm (tested across 20+ projects), then pivoted to ProductResearcherAI agent 8 months ago when identified human-verification necessity. Last 6 months focused on enhancing ProductResearcherAI agent within Cursor IDE and onboarding researchers to Cursor environment, validating $12,100 in pilot research contracts while preparing these users and projects for future transition to ResearcherryAI no-code platform. Background: 5+ years domain expertise with 2,000+ interviews across sectors.
 
 ### **What tech stack are you using, or planning to use, to build this product? Include AI models and AI coding tools you use.**
 **Current MVP:** The `ProductResearcherAI` agent operates within Cursor IDE, leveraging terminal and file system integration. However, Git complexity and programming requirements create onboarding friction for researchers. 
@@ -70,8 +70,8 @@ Kirill has over 5 years of experience conducting customer surveys to uncover hid
 Yes
 
 ### **How many active users or customers do you have? How many are paying? Who is paying you the most, and how much do they pay you?**
-We have 10+ freelance researchers and 3 companies using our ProductResearcherAI agent within Cursor. All have paid for research services where the agent was used, gaining access to the agent's ruleset in Cursor environment and subsequently will gain access to our future ResearcherryAI platform. We have a proven company onboarding model: clients pay for research services, then receive agent access for internal use. Our total revenue from these pilots is $15,100. Key contracts include:
-- **ArbitrA ($5,000):** Benchmarking of a bankruptcy platform.
+We have 10+ freelance researchers and 3 companies using our ProductResearcherAI agent within Cursor. All have paid for research services where the agent was used, gaining access to the agent's ruleset in Cursor environment and subsequently will gain access to our future ResearcherryAI platform. We have a proven company onboarding model: clients pay for research services, then receive agent access for internal use. Our total revenue from these pilots is $12,100. Key contracts include:
+- **ArbitrA ($1,000):** Benchmarking of a bankruptcy platform.
 - **OHI-S USA ($4,200):** Research for a US-based dental education platform.
 - **POST ($3,000):** User-flow generation for a fire-safety IT system.
 - **BaliBikes ($1,400):** Market entry research for a scooter rental platform.
@@ -83,7 +83,7 @@ We have 10+ freelance researchers and 3 companies using our ProductResearcherAI 
 Yes
 
 ### **Where does your revenue come from? If your revenue comes from multiple sources (e.g., multiple products, multiple companies or a mix of consulting and this product), please break down how much is coming from each source.**
-All current revenue comes from delivering research as a service using our proprietary `ProductResearcherAI` agent. As part of the deliverable for these paid contracts (7 confirmed, totaling over $15,100), clients receive access to the agent's customized ruleset to continue leveraging the technology internally using Cursor IDE. This validates the demand for both the service and the underlying tool.
+All current revenue comes from delivering research as a service using our proprietary `ProductResearcherAI` agent. As part of the deliverable for these paid contracts (7 confirmed, totaling over $12,100), clients receive access to the agent's customized ruleset to continue leveraging the technology internally using Cursor IDE. This validates the demand for both the service and the underlying tool.
 
 ### **If you are applying with the same idea as a previous batch, did anything change? If you applied with a different idea, why did you pivot and what did you learn from the last idea?**
 This is our second application. We pivoted from `Jneuro` after learning a critical lesson about AI limitations.
@@ -104,12 +104,21 @@ No
 ### **Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?**
 This idea was born from desperate necessity. As a freelance researcher abroad facing mounting financial pressures (family obligations, debt, newborn son), Kirill couldn't secure traditional employment due to timezone and visa restrictions. Living in hostel in Argentina, he built the `ProductResearcherAI` agent to clone his workflow algorithm to survive financially.
 
-The results were transformative: In just 2 months, Kirill secured 7 research contracts worth $15,100 - enough to restore his family relationships, move out of shared hostel rooms, relocate his family from Argentina to Brazil, and rent a beachfront apartment. His productivity exploded from managing 3-4 projects monthly to 8+ projects, analyzing interviews in 3 minutes vs. 4-5 hours manually, and generating complex user-flows in 20 minutes vs. 5+ hours.
+The results were transformative: In just 2 months, Kirill secured 7 research contracts worth $12,100 - enough to restore his family relationships, move out of shared hostel rooms, relocate his family from Argentina to Brazil, and rent a beachfront apartment. His productivity exploded from managing 3-4 projects monthly to 8+ projects, analyzing interviews in 3 minutes vs. 4-5 hours manually, and generating complex user-flows in 20 minutes vs. 5+ hours.
 
 But the bigger validation came from the decentralized impact: 10+ other freelancers now use ProductResearcherAI in Cursor, with companies like UltimateGuitar paying for agent training to prevent employee burnout while doubling project capacity. This proves the market need for AI that amplifies human researchers rather than replacing them. However, Cursor's technical barriers (Git complexity, programming requirements) limit adoption to tech-savvy users. ResearcherryAI will remove these barriers with a no-code platform, enabling any researcher to create and monetize their own specialized AI agents.
 
 ### **Who are your competitors? What do you understand about your business that they don't?**
-Our main competitor is manual research, which costs companies $50-150/hour per researcher and takes 5+ hours to process a single interview. Generic AI tools (ChatGPT, Claude) often hallucinate findings or produce irrelevant patterns, forcing researchers to double-check everything, sometimes doubling workload.
+**Primary competitor is manual research**, which costs companies $50-150/hour per researcher and takes 5+ hours to process a single interview. Generic AI tools (ChatGPT, Claude) often hallucinate findings or produce irrelevant patterns, forcing researchers to double-check everything, sometimes doubling workload.
+
+**Direct competitors include:**
+- **Dovetail**: Analysis-only platform that requires pre-processed data, doesn't handle interview scheduling or real-time synthesis
+- **User Interviews**: Recruiting-focused platform without analysis capabilities or AI agents
+- **Maze**: Usability testing tool limited to specific test types, no qualitative research workflows
+- **Hotjar**: Session recording and heatmaps, but no interview analysis or synthesis capabilities
+- **UserTesting**: Provides testing infrastructure but requires manual analysis, no agent customization
+
+**What we understand that they don't:**
 
 We solve this with a **verified chain-of-thought rules system** that delivers measurable value:
 - **20 minutes** to generate complex user-flows vs. **5+ hours** manually (15x speed increase)
@@ -117,7 +126,12 @@ We solve this with a **verified chain-of-thought rules system** that delivers me
 - **8+ projects/month** capacity vs. **3-4 projects/month** manually (2x throughput)
 - **90 interviews/month** vs. **30 interviews/month** with same quality (3x scale)
 
-Competitors like UserTesting provide analysis-silos; existing AI development tools like Cursor require programming skills and Git knowledge. We uniquely offer a **no-code command center** where researchers build, customize, and monetize their own specialized AI agents without technical barriers. This creates a **network effect**: as more researchers contribute rules to our marketplace, the platform becomes more valuable for everyone.
+**Our unique advantages over competitors:**
+1. **End-to-end workflow**: Unlike Dovetail (analysis-only) or User Interviews (recruiting-only), we handle the complete research lifecycle
+2. **No-code agent customization**: Unlike existing AI development tools like Cursor that require programming skills and Git knowledge
+3. **Human-in-the-loop verification**: Unlike generic AI tools that hallucinate, our agents maintain research quality through verified checkpoints
+4. **Agent marketplace**: Network effect as researchers contribute rules, making platform more valuable for everyone
+5. **Real-time synthesis**: Unlike manual tools, our agents provide instant pattern recognition analyzing all iteractions with customers
 
 Our key insight competitors miss: researchers don't want AI to replace them - they want AI that amplifies their expertise while ensuring human verification at every critical decision point. This "human-in-the-loop" approach maintains research quality while achieving unprecedented scale.
 
@@ -131,7 +145,7 @@ We'll use a multi-revenue stream SaaS model proven by our current success:
 
 **Additional Revenue Streams:**
 4. **Marketplace:** 10% commission on agent rules sales (projected $10K+ monthly from power users)
-5. **Research Services → SaaS Bridge:** Current $15,100 in proven revenue transitioning clients from service payments to platform subscriptions as they scale usage
+5. **Research Services → SaaS Bridge:** Current $12,100 in proven revenue transitioning clients from service payments to platform subscriptions as they scale usage
 6. **Training & Consulting:** Onboarding and customization services ($1,000-5,000 per implementation)
 
 **18-month targets:** 200 freelancers + 20 teams (5 seats avg) + 5 enterprises = $80,000 MRR
@@ -171,7 +185,15 @@ We are seeking $750,000 to build a world-class multi-agent platform over 18 mont
 B2B SaaS
 
 ### **If you had any other ideas you considered applying with, please list them. One may be something we've been waiting for. Often when we fund people it's to do something they list here and not in the main application.**
-This is our primary idea, born from direct experience and market validation.
+
+**1. ArchitectAI - Product-Market Fit Optimization Platform:**
+AI system that reverse-engineers successful product architectures by analyzing customer behavior patterns and technical implementation gaps. Input: current product codebase + user interaction data + business metrics. Output: technical architecture recommendations showing which code modules/APIs/databases need modification to better serve customer needs by segment, with estimated development effort and projected impact on key metrics. Different from research tools - this analyzes technical product architecture against customer usage patterns to suggest engineering priorities for growth.
+
+**2. Universal AI Agent Rules Marketplace:**
+Platform-agnostic marketplace for AI agent rules, workflows, and behaviors across ALL industries (not just research). Power users create, sell, and license specialized agent intelligence modules. Becomes the "App Store for AI agent capabilities" - the standard infrastructure for how any AI agent learns new skills. Revenue potential: 10% commission on every AI workflow sold globally as agents become ubiquitous across industries.
+
+**3. Producty - Real-Time Customer Pain Detection Platform:**
+AI agents analyze all customer interactions in real-time (chat logs, interview transcripts, sales call recordings, support tickets) to identify uncovered pain points that current products don't address. Platform highlights which customer needs remain unmet by existing solutions or are fundamentally unaddressable by current product architecture, generating actionable insights for product improvements or new product line development. Scans customer pains and shows financial potential of addressing each pain point + detailed user segment maps in real time, enabling companies to reactivate dissatisfied users into paying customers through targeted product development.
 
 ## Equity
 
@@ -179,10 +201,8 @@ This is our primary idea, born from direct experience and market validation.
 No
 
 ### **If you have not formed the company yet, describe the planned equity ownership breakdown among the founders, employees and any other proposed stockholders. If there are multiple founders, be sure to give the proposed equity ownership of each founder and founder title (e.g. CEO). (This question is as much for you as us.)**
-50% CTO
-49% CEO
-1% first angel investor/IR Director
-+4% as a success fee for IR Director from CEO equity
+99% Founder (CEO/CTO)
+1% Angel investor/IR Director
 
 ### **Have you taken any investment yet?**
 Yes
